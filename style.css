@@ -1,0 +1,49 @@
+body{
+    background-color: #EDEDE9;
+    margin: 20px 50px;
+}
+.display-5{
+    font-family: 'DM Serif Display', serif;
+    color: #403832;
+}
+.main-heading{
+    font-family: 'Averia Serif Libre', serif;
+    margin-top: 40px;
+    color: #342d28;
+}
+.para,.creator{
+    font-family: 'PT Serif', serif;
+    color: #403832;
+}
+.heading{
+    font-family:'Averia Serif Libre', serif;
+    color:  #342d28;
+}
+.block-1{
+    display: flex;
+    gap: 300px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 0;
+    align-items: center;
+}
+.block-2, .block-3, .block-4, .block-5,
+.block-6, .block-7, .block-8{
+    display: flex;
+    gap: 300px;
+    margin: 10px 50px;
+    align-items: center;
+}
+.end-line{
+    margin-top: 80px;
+    text-align: center;
+    font-family: 'PT Serif', serif;
+    color: #403832;
+}
+.copyright{
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'PT Serif', serif;
+    color: #403832;
+}
